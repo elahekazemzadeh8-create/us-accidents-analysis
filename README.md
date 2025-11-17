@@ -1,4 +1,4 @@
-# us-accidents-analysis
+# US-accidents-analysis
 Data science analysis of US traffic accident data using Python and Kaggle
 
 This project analyzes the [US Accidents Dataset](https://www.kaggle.com/datasets/sobhanmoosavi/us-accidents), covering millions of accident records across the United States. The workflow demonstrates skills in data cleaning, exploration, visualization, feature engineering, modeling, and interpretation.
